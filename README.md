@@ -2,7 +2,7 @@ BiomechanicsBootcamp01_Scaling
 ==============================
 Tutorial 1: Scaling
 
-Learn/review/reinforce geometric, anatomical and physiological scaling "laws". Learn basics of Mathematica software (data entry, data import, basic plotting). Links to supplementary video are provided.
+Learn,review,reinforce geometric, anatomical and physiological scaling "laws". Learn basics of Mathematica software (data entry, data import, basic plotting). Links to supplementary video are provided.
 
 Two ways to download the material:
 1. Download the whole chapter (recommended)
@@ -13,4 +13,3 @@ Two ways to download the material:
 -Click on the desired chapter (=github repository)
 -Click on the desired file
 -Click on View Raw and follow browser's instructions for download
-Tutorial 1: Scaling
